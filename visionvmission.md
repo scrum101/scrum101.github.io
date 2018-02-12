@@ -1,3 +1,27 @@
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+.GeneratedMarquee {
+font-family:'Comic Sans MS';
+font-size:2em;
+line-height:1.3em;
+color:#330099;
+background-color:#CCFFFF;
+padding:1.5em;
+
+}
+</style>
+
+<!-- HTML Code -->
+<marquee class="GeneratedMarquee" direction="left" scrollamount="3" behavior="scroll">vision && mission</marquee>
+
+
+
+
+![alt text](img/vision_mission_values.jpg "Vision missions values venn diagram")
+
+
 # What is the difference between a vision statement and a mission statement?
 
 This page covers the differences between a vision statement and a mission statement, and in what circumstances you might use them.
