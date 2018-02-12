@@ -19,7 +19,7 @@ We have been successful when we have released a website with lessons about SCRUM
 
 ### What's where?
 
-1. Vision vs mission statement - what's the difference?
-2. General introduction to SCRUM
-3. SCRUM in practice
-4. Who's who?
+1. [Vision vs mission statement - what's the difference?](visionvmission.md)
+2. [General introduction to SCRUM] (generalintro.md)
+3. [SCRUM in practice] (inpractice.md)
+4. [Who's who?] (team.md)
