@@ -55,24 +55,24 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Product Owner** person whom holds the vision for the product and is responsible for maintaining, prioritizing and updating the product backlog. In Scrum, the Product Owner has final authority representing the customer's interest in backlog prioritization and requirements questions. This person must be available to the team at any time, but especially during the sprint planning meeting and the sprint review meeting.
 
-Challenges of being a product owner:
+## Challenges of being a product owner:
 
 Resisting the temptation to "manage" the team. The team may not self-organize in the way you would expect it to. This is especially challenging if some team members request your intervention with issues the team should sort out for itself.
 Resisting the temptation to add more important work after a Sprint is already in progress.
 Being willing to make hard choices during the sprint planning meeting.
 Balancing the interests of competing stakeholders.
 
-**Relative Estimation** – sizing backlog items by grouping them into relative size ranges rather than by absolute units (e.g. – hours). See Fibonacci and t-shirt sizes.
+**Relative Estimation**: – sizing backlog items by grouping them into relative size ranges rather than by absolute units (e.g. – hours). See Fibonacci and t-shirt sizes.
 
-**Release** The transition of an increment of potentially shippable product from the development team into routine use by customers. Releases typically happen when one or more sprints has resulted in the product having enough value to outweigh the cost to deploy it.
+**Release**: The transition of an increment of potentially shippable product from the development team into routine use by customers. Releases typically happen when one or more sprints has resulted in the product having enough value to outweigh the cost to deploy it.
 
-**Release Burndown Chart** a visible chart to show progress towards a release.
+**Release Burndown Chart**: a visible chart to show progress towards a release.
 
-**Retrospective** a session where the Team and Scrum Master reflect on the process and make commitments to improve.
+**Retrospective**: a session where the Team and Scrum Master reflect on the process and make commitments to improve.
 
-**Roman Vote** see Thumb Vote
+**Roman Vote**: see Thumb Vote
 
-**ScrumMaster Role** The ScrumMaster is a facilitator for the team and product owner. Rather than manage the team, the ScrumMaster works to assist both the team and product owner in the following ways:
+**ScrumMaster Role**: The ScrumMaster is a facilitator for the team and product owner. Rather than manage the team, the ScrumMaster works to assist both the team and product owner in the following ways:
 
 Remove the barriers between the development and the product owner so that the product owner directly drives development.
 Teach the product owner how to maximize return on investment (ROI), and meet his/her objectives through Scrum.
@@ -82,58 +82,58 @@ Improve the engineering practices and tools so that each increment of functional
 Keep information about the team's progress up to date and visible to all parties.
 Source: Agile Project Management with Scrum, Ken Schwaber
 
-**Scrum Meetings** Story Time, Planning, Review, Retrospective, Daily Scrum
+**Scrum Meetings**: Story Time, Planning, Review, Retrospective, Daily Scrum
 
-**Scrum Roles** there are only three: product owner, Scrum Master, team member
+**Scrum Roles**: there are only three: product owner, Scrum Master, team member
 
-**Self Organization** the principle that those closest to the work best know how to do the work, so set clear goals and boundaries and let them make all tactical and implementation decisions, cf. Emergence, Empiricism
+**Self Organization**: the principle that those closest to the work best know how to do the work, so set clear goals and boundaries and let them make all tactical and implementation decisions, cf. Emergence, Empiricism
 
-**Spike** a short, time-boxed piece of research, usually technical, on a single story that is intended to provide just enough information that the team can estimate the size of the story
+**Spike**: a short, time-boxed piece of research, usually technical, on a single story that is intended to provide just enough information that the team can estimate the size of the story
 
-**Sprint** a time boxed iteration
+**Sprint**: a time boxed iteration
 
-S**print Backlog** Defines the work for a sprint, represented by the set of tasks that must be completed to realize the sprint's goals, and selected set of product backlog items.
+S**print Backlog**: Defines the work for a sprint, represented by the set of tasks that must be completed to realize the sprint's goals, and selected set of product backlog items.
 
-**Sprint Burndown** <a name="sprint-burndown"></a> a visible chart that indicates on a daily basis the amount of work remaining in the sprint.
+**Sprint Burndown**: a visible chart that indicates on a daily basis the amount of work remaining in the sprint.
 
-**Sprint Goal** aka Sprint Theme, the key focus of the work for a single sprint.
+**Sprint Goal**: aka Sprint Theme, the key focus of the work for a single sprint.
 
-**Sprint Planning** a meeting between the Team and the Product Owner to plan the sprint and arrive at an agreement on the commitment.
+**Sprint Planning**: a meeting between the Team and the Product Owner to plan the sprint and arrive at an agreement on the commitment.
 
-**Sprint Task** a single small item of work that helps one particular story reach completion.
+**Sprint Task**: a single small item of work that helps one particular story reach completion.
 
-**Story** a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
+**Story**: a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
 
-**Stakeholder** Sometimes the following terms are used synonymously – although it should be noted that there are nuances in their definitions: story, user story, technical user story, product backlog item, PBI, and product requirement.
+**Stakeholder**: Sometimes the following terms are used synonymously – although it should be noted that there are nuances in their definitions: story, user story, technical user story, product backlog item, PBI, and product requirement.
 
-**Story Point** a unit of measurement applied to the size of a story, cf. Fibonacci Sequence T-shirt sizes, powers of 2, are other ways of assigning Story Points.
+**Story Point**: a unit of measurement applied to the size of a story, cf. Fibonacci Sequence T-shirt sizes, powers of 2, are other ways of assigning Story Points.
 
-**Story Time** <a name="story-time"></a> the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
+**Story Time**: the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
 
-**Task** see Sprint Task
+**Task**: see Sprint Task
 
-**Task List** the tasks needed to complete the set of stories committed to a sprint.
+**Task List**: the tasks needed to complete the set of stories committed to a sprint.
 
-**Taskboard** a wall chart with cards and sticky notes that represent all the work of a team in a given sprint; the task notes are moved across the board to show progress.
+**Taskboard**: a wall chart with cards and sticky notes that represent all the work of a team in a given sprint; the task notes are moved across the board to show progress.
 
-**Team** A team (or "Scrum development team") is optimally comprised of seven plus or minus two people and responsible for committing to work, delivering and driving the product forward from a tactical perspective.
+**Team**: A team (or "Scrum development team") is optimally comprised of seven plus or minus two people and responsible for committing to work, delivering and driving the product forward from a tactical perspective.
 For software development projects, the team members are usually a mix of software engineers, architects, programmers, analysts, QA experts, testers, UI designers, etc. This is often called "cross-functional project teams". Agile practices also encourage cross-functional team members.
 During a sprint, the team self-organizes to meet the sprint goals. The team has autonomy to choose how to best meet the goals, and is held responsible for them. The ScrumMaster acts as a guardian to ensure that the team is insulated from the product owner. Scrum also advocates putting the entire team in one team room.
 
-**Team Member** a team member is defined as anyone working on sprint tasks toward the sprint goal. In Scrum parlance, the PO and SM could also be Team Members, if they are developing.
+**Team Member**: a team member is defined as anyone working on sprint tasks toward the sprint goal. In Scrum parlance, the PO and SM could also be Team Members, if they are developing.
 
-**Thumb Vote** a quick pulse to get a sense of where the team are in terms of commitment, or agreement on a decision, etc. thumb up generally means agree, yes, or good, and thumb down disagree, no or bad; the analog version of this allows the thumb to be anywhere on the half circle to indicate differing degrees of agreeability.
+**Thumb Vote**: a quick pulse to get a sense of where the team are in terms of commitment, or agreement on a decision, etc. thumb up generally means agree, yes, or good, and thumb down disagree, no or bad; the analog version of this allows the thumb to be anywhere on the half circle to indicate differing degrees of agreeability.
 
-**Timeboxing** setting a duration for every activity and having it last exactly that (i.e. neither meetings nor sprint are ever lengthened - ever).
+**Timeboxing**: setting a duration for every activity and having it last exactly that (i.e. neither meetings nor sprint are ever lengthened - ever).
 
-**Velocity** the rate at which a team completes work, usually measured in story points. In Scrum, velocity is how much product backlog effort a team can handle in one sprint. This can be estimated by viewing previous sprints, assuming the team composition and sprint duration are kept constant. It can also be established on a sprint-by-sprint basis, using commitment-based planning.
+**Velocity**: the rate at which a team completes work, usually measured in story points. In Scrum, velocity is how much product backlog effort a team can handle in one sprint. This can be estimated by viewing previous sprints, assuming the team composition and sprint duration are kept constant. It can also be established on a sprint-by-sprint basis, using commitment-based planning.
 Once established, velocity can be used to plan projects and forecast release and product completion dates.
 How can velocity computations be meaningful when backlog item estimates are intentionally rough? The law of large numbers tends to average out the roughness of the estimates.
 
-**Vision Statement** a high-level description of a product which includes who it is for, why it is necessary and what differentiates it from similar products.
+**Vision Statement**: a high-level description of a product which includes who it is for, why it is necessary and what differentiates it from similar products.
 
-**What** "the What" is a term used to describe the domain of the product owner, as distinct for the team, cf. How. Can also be described as strategy (i.e. what's the best order for battles).
+**What**: "the What" is a term used to describe the domain of the product owner, as distinct for the team, cf. How. Can also be described as strategy (i.e. what's the best order for battles).
 
-**XP Practices** the set of development practices, including pair-programming, test-first, or test-driven development (TDD) and continuous refactoring, which are drawn from the XP methodology; many Scrum teams find these practices greatly improve productivity and team morale.
+**XP Practices**: the set of development practices, including pair-programming, test-first, or test-driven development (TDD) and continuous refactoring, which are drawn from the XP methodology; many Scrum teams find these practices greatly improve productivity and team morale.
 
 
