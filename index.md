@@ -21,3 +21,6 @@ It uses
  - [Tips such as the difference between vision statements and mission statements](tips_for_scrum.md)
 
 [Who are we?](team.md)  \[under construction\]
+
+### Sources
+Image and content help from [https://github.com/bounswe/bounswe2016group6](https://github.com/bounswe/bounswe2016group6)
