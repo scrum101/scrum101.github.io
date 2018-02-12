@@ -4,7 +4,7 @@
 
 This website provides a beginners level introduction to SCRUM as an agile development framework and tips on using JIRA to support your SCRUM process
 
-## What is SCRUM
+## What is SCRUM?
 
 SCRUM is a simple framework for a team collaborating on a complex software project
 
