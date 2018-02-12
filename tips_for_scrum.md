@@ -1,7 +1,7 @@
-#Tips for running your scrum process
+# Tips for running your scrum process and motivating your team
 
 This page contains a list of tips which cover both team motivation and running the scrum process
 
-##Team motivation
+## Team motivation
 
 [Vision vs mission statement - what's the difference? and when to use them](visionvmission.md)
