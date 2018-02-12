@@ -20,6 +20,6 @@ We have been successful when we have released a website with lessons about SCRUM
 ### What's where?
 
 1. [Vision vs mission statement - what's the difference?](visionvmission.md)
-2. [General introduction to SCRUM](generalintro.md) \[under construction\]
+2. [Glossary](glossary.md) \[under construction\]
 3. [SCRUM in practice](inpractice.md)  \[under construction\]
 4. [Who's who?](team.md)  \[under construction\]
