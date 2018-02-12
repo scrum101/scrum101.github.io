@@ -4,13 +4,13 @@
 
 This website provides a beginners level introduction to SCRUM as an agile development framework and tips on using JIRA to support your SCRUM process
 
-## What is SCRUM
+## What is SCRUM?
 
 SCRUM is a simple framework for a team collaborating on a complex software project
 
 It uses
  - Prioritized feature backlog
- - Sprints to define work done in a specific timeframe
+ - Sprints to define work done in a specific timeframe (frequently 2 weeks)
  - Rapid development and iteration on features
  
 ![What is SCRUM infographic](scrum_infographic.png)

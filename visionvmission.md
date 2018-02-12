@@ -1,3 +1,24 @@
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+.GeneratedMarquee {
+font-family:'Comic Sans MS';
+font-size:2em;
+line-height:1.3em;
+color:#330099;
+background-color:#CCFFFF;
+padding:1.5em;
+
+}
+</style>
+
+<!-- HTML Code -->
+<marquee class="GeneratedMarquee" direction="left" scrollamount="3" behavior="scroll">vision && mission</marquee>
+
+
+
+
 ![alt text](img/vision_mission_values.jpg "Vision missions values venn diagram")
 
 
