@@ -14,7 +14,7 @@ The following is a glossary of SCRUM-related terminology. Please note that not a
 
 **Backlog Item**: (see [Product Backlog Item](#product-backlog-item).)
 
-**Chicken**: (arch.) term for anyone not on the team, the term offended some people so is now rarely used, cf. Pig
+**Chicken**<a name="chicken"></a>: (arch.) term for anyone not on the team, the term offended some people so is now rarely used, cf. ["Pig"](#pig)
 
 **Daily Scrum**: a fifteen-minute daily team meeting to share progress, report impediments and make commitments. During the Daily scrum each team member answers three questions:
 1. "What have I done since the last Scrum meeting? (i.e. yesterday)"
@@ -25,9 +25,9 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Done**: also referred to as "Done Done", this term is used to describe a product increment that is considered potentially releasable; it means that all design, coding, testing and documentation have been completed and the increment is fully integrated into the system.
 
-**Emergence**: the principle that the best designs, and the best ways of working come about over time through doing the work, rather than being defined in advance, cf. Empiricism, Self Organization.
+**Emergence**<a name="emergence"></a>: the principle that the best designs, and the best ways of working come about over time through doing the work, rather than being defined in advance, cf. [Empiricism](#empiricism), [Self Organization](#self-organisation).
 
-**Empiricism**: the principle of "inspect and adapt" which allows teams or individuals to try something out and learn from the experience by conscious reflection and change, cf. Emergence, Self Organization.
+**Empiricism**<a name="empiricism"></a>: the principle of "inspect and adapt" which allows teams or individuals to try something out and learn from the experience by conscious reflection and change, cf. [Emergence](#emergence), [Self Organization](#self-organisation).
 
 **Epic**: a very large user story that is eventually broken down into smaller stories; epics are often used as placeholders for new ideas that have not been thought out fully. There's nothing wrong with having an epic, as long as it is not high priority.
 
@@ -35,13 +35,13 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Fibonacci Sequence**: the sequence of numbers where the next number is derived by adding together the previous two (1,2,3,5,8,13,20…) ; the sequence has the quality of each interval getting larger as the numbers increase; the sequence is often used for Story Points, simply because estimates are always less accurate when dealing with epics.
 
-**How**: "the How" is a term used to describe the domain of the team, as distinct for the product owner, cf “What”.Can also be described as tactic (i.e. how to win the battle).
+**How**: "the How" is a term used to describe the domain of the team, as distinct for the product owner, cf [“What”](#what).Can also be described as tactic (i.e. how to win the battle).
 
 **Impediment**: anything that prevents the team from meeting their potential (e.g. chairs are uncomfortable). If organizational, it is the Scrum Master's responsibility to eliminate it. If it is internal to the team, then they themselves should do away with it.
 
 **Impediment Backlog**: a visible or nonvisible list of impediments in a priority order according to how seriously they are blocking the team from productivity.
 
-**Pig**: (arch.) term for a team member, the term offended some people so is now rarely used, cf. “Chicken”.
+**Pig**<a name="pig"></a>: (arch.) term for a team member, the term offended some people so is now rarely used, cf. [“Chicken”](#chicken).
 
 **Planning**: see Sprint Planning
 
@@ -86,13 +86,13 @@ Source: Agile Project Management with Scrum, Ken Schwaber
 
 **Scrum Roles** there are only three: product owner, Scrum Master, team member
 
-**Self Organization** the principle that those closest to the work best know how to do the work, so set clear goals and boundaries and let them make all tactical and implementation decisions, cf. Emergence, Empiricism
+**Self Organization**<a name="self-organisation"></a> the principle that those closest to the work best know how to do the work, so set clear goals and boundaries and let them make all tactical and implementation decisions, cf. Emergence, Empiricism
 
 **Spike** a short, time-boxed piece of research, usually technical, on a single story that is intended to provide just enough information that the team can estimate the size of the story
 
 **Sprint** a time boxed iteration
 
-S**print Backlog** Defines the work for a sprint, represented by the set of tasks that must be completed to realize the sprint's goals, and selected set of product backlog items.
+**Sprint Backlog** Defines the work for a sprint, represented by the set of tasks that must be completed to realize the sprint's goals, and selected set of product backlog items.
 
 **Sprint Burndown** <a name="sprint-burndown"></a> a visible chart that indicates on a daily basis the amount of work remaining in the sprint.
 
@@ -132,7 +132,7 @@ How can velocity computations be meaningful when backlog item estimates are inte
 
 **Vision Statement** a high-level description of a product which includes who it is for, why it is necessary and what differentiates it from similar products.
 
-**What** "the What" is a term used to describe the domain of the product owner, as distinct for the team, cf. How. Can also be described as strategy (i.e. what's the best order for battles).
+**What**<a name="what"></a>: "the What" is a term used to describe the domain of the product owner, as distinct for the team, cf. How. Can also be described as strategy (i.e. what's the best order for battles).
 
 **XP Practices** the set of development practices, including pair-programming, test-first, or test-driven development (TDD) and continuous refactoring, which are drawn from the XP methodology; many Scrum teams find these practices greatly improve productivity and team morale.
 
