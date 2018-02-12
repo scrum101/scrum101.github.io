@@ -10,7 +10,7 @@ SCRUM is a simple framework for a team collaborating on a complex software proje
 
 It uses
  - Prioritized feature backlog
- - Sprints to define work done in a specific timeframe
+ - Sprints to define work done in a specific timeframe (frequently 2 weeks)
  - Rapid development and iteration on features
  
 ![What is SCRUM infographic](scrum_infographic.png)
