@@ -1,20 +1,30 @@
-<!-- Codes by HTML.am -->
+<style style="text/css">
+div.slide-slow {
+  width:100%;
+  overflow:hidden;
+}
+div.slide-slow div.inner {
+  animation: slide-slow 30s;
+  margin-top:0%;
+}
 
-<!-- CSS Code -->
-<style type="text/css" scoped>
-.GeneratedMarquee {
-font-family:'Comic Sans MS';
-font-size:2em;
-line-height:1.3em;
-color:#330099;
-background-color:#CCFFFF;
-padding:1.5em;
+@keyframes slide-slow {
+  from {
+    margin-left: 100%;
+  }
 
+  to {
+    margin-left: 0%;
+  }
 }
 </style>
 
-<!-- HTML Code -->
-<marquee class="GeneratedMarquee" direction="left" scrollamount="3" behavior="scroll">vision && mission</marquee>
+<div class="slide-slow">
+<div class="inner">
+<img src="img/vision.gif" alt="Vigilant cartoonish George Washington">
+</div>
+</div>
+
 
 
 
