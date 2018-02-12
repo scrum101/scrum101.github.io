@@ -1,3 +1,6 @@
+![alt text](scrum101.github.io/img/vision_mission_values.jpg "Vision missions values venn diagram")
+
+
 # What is the difference between a vision statement and a mission statement?
 
 This page covers the differences between a vision statement and a mission statement, and in what circumstances you might use them.
