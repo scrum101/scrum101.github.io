@@ -17,10 +17,9 @@ It uses
 
 ## Website contents 
  - [A glossary of terms used in SCRUM](glossary.md) 
- - [A step by step guide to the SCRUM process using JIRA](inpractice.md) \[under construction\]
+ - [A step by step guide to the SCRUM process using JIRA](inpractice.md)
  - [Tips such as the difference between vision statements and mission statements](tips_for_scrum.md)
-
-[Who are we?](team.md)  \[under construction\]
+ - [Who are we?](team.md) 
 
 ### Sources
 Image and content help from [https://github.com/bounswe/bounswe2016group6](https://github.com/bounswe/bounswe2016group6)
