@@ -49,7 +49,7 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Process**: simply the way someone works. Everyone has a process. It can be pre-defined, empiric or merely chaotic.
 
-**Product Backlog**: a prioritized list of stories that are waiting to be worked on. The product backlog (or "backlog") is the requirements for a system, expressed as a prioritized list of product backlog Items. These included both functional and non-functional customer requirements, as well as technical team-generated requirements. While there are multiple inputs to the product backlog, it is the sole responsibility of the product owner to prioritize the product backlog. During a Sprint planning meeting, backlog items are moved from the product backlog into a sprint, based on the product owner's priorities.
+**Product Backlog**<a name="product-backlog"></a>: a prioritized list of stories that are waiting to be worked on. The product backlog (or "backlog") is the requirements for a system, expressed as a prioritized list of product backlog Items. These included both functional and non-functional customer requirements, as well as technical team-generated requirements. While there are multiple inputs to the product backlog, it is the sole responsibility of the product owner to prioritize the product backlog. During a Sprint planning meeting, backlog items are moved from the product backlog into a sprint, based on the product owner's priorities.
 
 **Product Backlog Item**<a name="product-backlog-item"></a>: any item that is one the backlog list, which will include user stories, epics and possibly technical stories to deal with technical debt, etc.
 
@@ -90,7 +90,7 @@ Source: Agile Project Management with Scrum, Ken Schwaber
 
 **Spike**: a short, time-boxed piece of research, usually technical, on a single story that is intended to provide just enough information that the team can estimate the size of the story
 
-**Sprint**: a time boxed iteration
+**Sprint**<a name="sprint"></a>: a time boxed iteration
 
 
 **Sprint Backlog**: Defines the work for a sprint, represented by the set of tasks that must be completed to realize the sprint's goals, and selected set of product backlog items.
@@ -100,7 +100,7 @@ Source: Agile Project Management with Scrum, Ken Schwaber
 
 **Sprint Goal**: aka Sprint Theme, the key focus of the work for a single sprint.
 
-**Sprint Planning**: a meeting between the Team and the Product Owner to plan the sprint and arrive at an agreement on the commitment.
+**Sprint Planning**<a name="sprint-planning"></a>: a meeting between the Team and the Product Owner to plan the sprint and arrive at an agreement on the commitment.
 
 **Sprint Task**: a single small item of work that helps one particular story reach completion.
 
