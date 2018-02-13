@@ -1,6 +1,6 @@
 # Who's who?
 
-Scrum101 is made of five enthusiastic and skilled scrum users, who want to show the wonders of Scrum and JIRA to anyone within their organisation, EMBL-EBI.
+Team Awsome is made of five enthusiastic and skilled scrum users, who want to show the wonders of Scrum and JIRA to anyone within their organisation, EMBL-EBI.
 
 Laura Clarke - Human Cell Atlas Coordinator  laura@ebi.ac.uk
 
