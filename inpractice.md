@@ -4,7 +4,7 @@ The page provides a step-by-step guide to using SCRUM in your team.
 
 ## The product backlog
 
-At the heart of your SCRUM development cycle is the product backlog. The backlog contains a list of all user stories, bug reports and other tasks that need to be carried out as part of developing your product. 
+At the heart of your SCRUM development cycle is the [product backlog](glossary.md#product-backlog). The backlog contains a list of all user stories, bug reports and other tasks that need to be carried out as part of developing your product. 
 
 It is worth spending some time to make sure all feature requests and user stories are logged properly in the backlog. Ideally, each item should have a detailed description and acceptance critera that define when this item is done. 
 
