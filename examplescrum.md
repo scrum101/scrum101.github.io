@@ -31,6 +31,7 @@ Nice. After you created enough stories it's time to prioritise. Stories that are
 
 Once prioritised, you need to add [story points](glossary.md#story-point) to each story. Have a go at [story-point-poker](glossary.md#poker) for each story in the backlog. Assign each story the estimated amount of story points.
 
+
 ![](/img/storypoints.png)
 
 ## Creating your first sprint

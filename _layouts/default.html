@@ -13,24 +13,7 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-  </head>
-  <body>
-
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-
-      <div id="banner">
-
-        {% include nav.html %}
-            
-
-        
-      </div><!-- end banner -->
-
-           <div style="width:300px;">
-        <script>
+                <script>
   (function() {
     var cx = '016685808634078745426:u-poqmflwrs';
     var gcse = document.createElement('script');
@@ -40,10 +23,29 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
-</script>
-           <gcse:search></gcse:search>
- 
-         </div>
+  </script>
+    
+  </head>
+  <body>
+
+    
+      <header>
+          <div style="float:right; width:400px;">
+           <gcse:search></gcse:search> 
+          </div>  
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header>
+
+
+    
+      <div id="banner">
+
+        {% include nav.html %}
+            
+
+        
+      </div><!-- end banner -->
     
     <div class="wrapper">
       <nav>
