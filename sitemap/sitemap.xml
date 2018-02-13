@@ -1,1 +1,18 @@
-d
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://scrum101.github.io</loc> 
+  </url>
+  <url>
+    <loc>https://scrum101.github.io/inpractice.html</loc> 
+  </url>
+    <url>
+    <loc>https://scrum101.github.io/tips_for_scrum.html</loc> 
+  </url>
+    <url>
+    <loc>https://scrum101.github.io/glossary.html</loc> 
+  </url>
+    <url>
+    <loc>https://scrum101.github.io/team.html</loc> 
+  </url>
+</urlset>
