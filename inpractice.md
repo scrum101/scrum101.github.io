@@ -16,12 +16,14 @@ It is essential that the backlog be well priortised. This is the job of the prod
 
 ## Using sprints
 
-A sprint is a single unit of the development cycle. All sprints should be same length, typically one or two weeks, although longer or shorter sprints are possible. Each sprint starts with a planning meeting, where the tasks to be completed in the sprint are identified. Each sprint finishes with a sprint review and retrospective meeting, where the outcomes of the sprint, both in terms of process and in terms of the product, are reviewed by the development team.
+A [sprint](glossary.md#sprint) is a single unit of the development cycle. All sprints should be same length, typically one or two weeks, although longer or shorter sprints are possible. Each sprint starts with a planning meeting, where the tasks to be completed in the sprint are identified. Each sprint finishes with a sprint review and retrospective meeting, where the outcomes of the sprint, both in terms of process and in terms of the product, are reviewed by the development team.
 
 
 ## Sprint planning
 
-Each sprint starts with a sprint planning session. The session is facilitated by the scrum master. During the sprint planning, the top priority items from the backlog are moved into the sprint, up to the value of story points that previous experience (supported by evidence velocity, burn-up and burn-down reports) suggests can be achieved in one sprint. Dev team availability (eg planned leave, training courses etc) should be factored in here. 
+Each sprint starts with a [sprint planning](glossary.md#sprint-planning) session. The session is facilitated by the scrum master. During the sprint planning, the top priority items from the backlog are moved into the sprint, up to the value of story points that previous experience (supported by evidence velocity, burn-up and burn-down reports) suggests can be achieved in one sprint. Dev team availability (eg planned leave, training courses etc) should be factored in here. 
+
+Tickets can be assigned to team members during the sprint or, in a truy agile team, picked up by whoever is available based on priority during the course of the sprint. 
 
 ## Daily stand-ups
 
