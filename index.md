@@ -18,6 +18,7 @@ It uses
 ## Website contents 
  - [A glossary of terms used in SCRUM](glossary.md) 
  - [A step by step guide to the SCRUM process using JIRA](inpractice.md)
+ - [An example scrum project](examplescrum.md)
  - [Tips such as the difference between vision statements and mission statements](tips_for_scrum.md)
  - [Who are we?](team.md) 
 
