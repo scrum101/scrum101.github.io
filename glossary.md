@@ -2,9 +2,9 @@
 
 The following is a glossary of SCRUM-related terminology. Please note that not all concepts are mandatory for SCRUM.
 
-**Acceptance Criteria**: Details that indicate the scope of a user story and help the team and product owner determine done-ness.
+**Acceptance Criteria**<a name="accpetance-criteria"></a>: Details that indicate the scope of a user story and help the team and product owner determine done-ness.
 
-**Agile**: the name coined for the wider set of ideas that Scrum falls within; the Agile values and principles are captured in the Agile Manifesto.
+**Agile**<a name="agile"></a>: the name coined for the wider set of ideas that Scrum falls within; the Agile values and principles are captured in the Agile Manifesto.
 
 **Architect**: there is no architect role on a Scrum team, instead all team members are responsible for emerging the architecture.
 
@@ -16,14 +16,14 @@ The following is a glossary of SCRUM-related terminology. Please note that not a
 
 **Chicken**<a name="chicken"></a>: (arch.) term for anyone not on the team, the term offended some people so is now rarely used, cf. ["Pig"](#pig)
 
-**Daily Scrum**: a fifteen-minute daily team meeting to share progress, report impediments and make commitments. During the Daily scrum each team member answers three questions:
+**Daily Scrum**<a name="daily"></a>: a fifteen-minute daily team meeting to share progress, report impediments and make commitments. During the Daily scrum each team member answers three questions:
 1. "What have I done since the last Scrum meeting? (i.e. yesterday)"
 2. "What will I do before the next Scrum meeting? (i.e. today)"
 3. "What prevents me from performing my work as efficiently as possible?"
 
 The ScrumMaster ensures that participants call sidebar meetings for any discussions that go too far outside these constraints. The Scrum literature recommends that this meeting take place first thing in the morning, as soon as all team members arrive.
 
-**Done**: also referred to as "Done Done", this term is used to describe a product increment that is considered potentially releasable; it means that all design, coding, testing and documentation have been completed and the increment is fully integrated into the system.
+**Done**<a name="done"></a>: also referred to as "Done Done", this term is used to describe a product increment that is considered potentially releasable; it means that all design, coding, testing and documentation have been completed and the increment is fully integrated into the system.
 
 **Emergence**<a name="emergence"></a>: the principle that the best designs, and the best ways of working come about over time through doing the work, rather than being defined in advance, cf. [Empiricism](#empiricism), [Self Organization](#self-organisation).
 
@@ -31,13 +31,13 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Epic**: a very large user story that is eventually broken down into smaller stories; epics are often used as placeholders for new ideas that have not been thought out fully. There's nothing wrong with having an epic, as long as it is not high priority.
 
-**Estimation**: the process of agreeing on a size measurement for the stories in a product backlog. Done by the team, usually using Planning Poker.
+**Estimation**<a name="estimation"></a>: the process of agreeing on a size measurement for the stories in a product backlog. Done by the team, usually using Planning Poker.
 
 **Fibonacci Sequence**: the sequence of numbers where the next number is derived by adding together the previous two (1,2,3,5,8,13,20…) ; the sequence has the quality of each interval getting larger as the numbers increase; the sequence is often used for Story Points, simply because estimates are always less accurate when dealing with epics.
 
 **How**: "the How" is a term used to describe the domain of the team, as distinct for the product owner, cf [“What”](#what).Can also be described as tactic (i.e. how to win the battle).
 
-**Impediment**: anything that prevents the team from meeting their potential (e.g. chairs are uncomfortable). If organizational, it is the Scrum Master's responsibility to eliminate it. If it is internal to the team, then they themselves should do away with it.
+**Impediment**<a name="impediment"></a>: anything that prevents the team from meeting their potential (e.g. chairs are uncomfortable). If organizational, it is the Scrum Master's responsibility to eliminate it. If it is internal to the team, then they themselves should do away with it.
 
 **Impediment Backlog**: a visible or nonvisible list of impediments in a priority order according to how seriously they are blocking the team from productivity.
 
@@ -45,7 +45,7 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Planning**: see Sprint Planning
 
-**Planning Poker**: a game used to apply estimates to stories; it uses the Delphi method of arriving at consensus.
+**Planning Poker**<a name="poker"></a>: a game used to apply estimates to stories; it uses the Delphi method of arriving at consensus.
 
 **Process**: simply the way someone works. Everyone has a process. It can be pre-defined, empiric or merely chaotic.
 
@@ -53,9 +53,9 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Product Backlog Item**<a name="product-backlog-item"></a>: any item that is one the backlog list, which will include user stories, epics and possibly technical stories to deal with technical debt, etc.
 
-**Product Owner**: person whom holds the vision for the product and is responsible for maintaining, prioritizing and updating the product backlog. In Scrum, the Product Owner has final authority representing the customer's interest in backlog prioritization and requirements questions. This person must be available to the team at any time, but especially during the sprint planning meeting and the sprint review meeting.
+**Product Owner**<a name="product-owner"></a>: person whom holds the vision for the product and is responsible for maintaining, prioritizing and updating the product backlog. In Scrum, the Product Owner has final authority representing the customer's interest in backlog prioritization and requirements questions. This person must be available to the team at any time, but especially during the sprint planning meeting and the sprint review meeting.
 
-## Challenges of being a product owner:
+### Challenges of being a product owner:
 
 1. Resisting the temptation to "manage" the team. The team may not self-organize in the way you would expect it to. This is especially challenging if some team members request your intervention with issues the team should sort out for itself.
 2. Resisting the temptation to add more important work after a Sprint is already in progress.
@@ -68,19 +68,19 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Release Burndown Chart**: a visible chart to show progress towards a release.
 
-**Retrospective**: a session where the Team and Scrum Master reflect on the process and make commitments to improve.
+**Retrospective**<a name="retrospective"></a>: a session where the Team and Scrum Master reflect on the process and make commitments to improve.
 
 **Roman Vote**: see Thumb Vote
 
-**ScrumMaster Role**: The ScrumMaster is a facilitator for the team and product owner. Rather than manage the team, the ScrumMaster works to assist both the team and product owner in the following ways:
+**ScrumMaster Role**<a name="scrum-master"></a>: The ScrumMaster is a facilitator for the team and product owner. Rather than manage the team, the ScrumMaster works to assist both the team and product owner in the following ways:
 
-Remove the barriers between the development and the product owner so that the product owner directly drives development.
-Teach the product owner how to maximize return on investment (ROI), and meet his/her objectives through Scrum.
-Improve the lives of the development team by facilitating creativity and empowerment.
-Improve the productivity of the development team in any way possible.
-Improve the engineering practices and tools so that each increment of functionality is potentially shippable.
-Keep information about the team's progress up to date and visible to all parties.
-Source: Agile Project Management with Scrum, Ken Schwaber
+1. Remove the barriers between the development and the product owner so that the product owner directly drives development.
+2. Teach the product owner how to maximize return on investment (ROI), and meet his/her objectives through Scrum.
+3. Improve the lives of the development team by facilitating creativity and empowerment.
+4. Improve the productivity of the development team in any way possible.
+5. Improve the engineering practices and tools so that each increment of functionality is potentially shippable.
+6. Keep information about the team's progress up to date and visible to all parties.
+_Source: Agile Project Management with Scrum, Ken Schwaber_
 
 **Scrum Meetings**: Story Time, Planning, Review, Retrospective, Daily Scrum
 
@@ -102,17 +102,17 @@ Source: Agile Project Management with Scrum, Ken Schwaber
 
 **Sprint Planning**<a name="sprint-planning"></a>: a meeting between the Team and the Product Owner to plan the sprint and arrive at an agreement on the commitment.
 
-**Sprint Task**: a single small item of work that helps one particular story reach completion.
+**Sprint Task**<a name="sprint-task"></a>: a single small item of work that helps one particular story reach completion.
 
-**Story**: a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
+**Story**<a name="story"></a>: a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
 
 **Stakeholder**: Sometimes the following terms are used synonymously – although it should be noted that there are nuances in their definitions: story, user story, technical user story, product backlog item, PBI, and product requirement.
 
-**Story Point**: a unit of measurement applied to the size of a story, cf. Fibonacci Sequence T-shirt sizes, powers of 2, are other ways of assigning Story Points.
+**Story Point**<a name="story-point"></a>: a unit of measurement applied to the size of a story, cf. Fibonacci Sequence T-shirt sizes, powers of 2, are other ways of assigning Story Points.
 
-**Story Time**: the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
+**Story Time**<a name="story-time"></a>: the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
 
-**Task**: see Sprint Task
+**Task**<a name="task"></a>: see [Sprint Task](#sprint-task)
 
 **Task List**: the tasks needed to complete the set of stories committed to a sprint.
 
