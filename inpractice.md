@@ -6,7 +6,7 @@ The page provides a step-by-step guide to using SCRUM in your team.
 
 At the heart of your SCRUM development cycle is the [product backlog](glossary.md#product-backlog). The backlog contains a list of all user stories, bug reports and other [tasks](glossary.md#task) that need to be carried out as part of developing your product. 
 
-It is worth spending some time to make sure all feature requests and user stories are logged properly in the backlog. Ideally, each item should have a detailed description and [acceptance critera](glossary.md#acceptance-criteria) that define when this item is done. 
+It is worth spending some time to make sure all feature requests and user stories are logged properly in the backlog. Ideally, each item should have a detailed description and [acceptance criteria](glossary.md#acceptance-criteria) that define when this item is done. 
 
 User stories should be broken down into subtasks, especially if they refer to quite a substantial feature. Items in the backlog can be linked to indicate how they related, eg one item requires another item to be completed before it can be implemented.
 
@@ -21,9 +21,9 @@ A [sprint](glossary.md#sprint) is a single unit of the development cycle. All sp
 
 ## Sprint planning
 
-Each sprint starts with a [sprint planning](glossary.md#sprint-planning) session. The session is facilitated by the [scrum master](glossary.md#scrum-master). During the sprint planning, the top priority items from the backlog are moved into the sprint, up to the value of story points that previous experience (supported by evidence velocity, burn-up and burn-down reports) suggests can be achieved in one sprint. Dev team availability (eg planned leave, training courses etc) should be factored in here. 
+Each sprint starts with a [sprint planning](glossary.md#sprint-planning) session. The session is facilitated by the [scrum master](glossary.md#scrum-master). During the sprint planning, the top priority items from the backlog are moved into the sprint, up to the value of story points that previous experience (supported by evidence from velocity, burn-up and [burn-down](glossary.md#sprint-burndown) reports) suggests can be achieved in one sprint. Dev team availability (eg planned leave, training courses etc) should be factored in here. 
 
-Tickets can be assigned to team members during the sprint or, in a truy [agile](glossary.md#agile) team, picked up by whoever is available based on priority during the course of the sprint. 
+Tickets can be assigned to team members during the sprint or, in a truly [agile](glossary.md#agile) team, picked up by whoever is available based on priority during the course of the sprint. 
 
 ## Daily stand-ups
 
