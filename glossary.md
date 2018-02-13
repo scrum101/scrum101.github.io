@@ -23,7 +23,7 @@ The following is a glossary of SCRUM-related terminology. Please note that not a
 
 The ScrumMaster ensures that participants call sidebar meetings for any discussions that go too far outside these constraints. The Scrum literature recommends that this meeting take place first thing in the morning, as soon as all team members arrive.
 
-**Done**: also referred to as "Done Done", this term is used to describe a product increment that is considered potentially releasable; it means that all design, coding, testing and documentation have been completed and the increment is fully integrated into the system.
+**Done**<a name="done"></a>: also referred to as "Done Done", this term is used to describe a product increment that is considered potentially releasable; it means that all design, coding, testing and documentation have been completed and the increment is fully integrated into the system.
 
 **Emergence**<a name="emergence"></a>: the principle that the best designs, and the best ways of working come about over time through doing the work, rather than being defined in advance, cf. [Empiricism](#empiricism), [Self Organization](#self-organisation).
 
@@ -31,7 +31,7 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Epic**: a very large user story that is eventually broken down into smaller stories; epics are often used as placeholders for new ideas that have not been thought out fully. There's nothing wrong with having an epic, as long as it is not high priority.
 
-**Estimation**: the process of agreeing on a size measurement for the stories in a product backlog. Done by the team, usually using Planning Poker.
+**Estimation**<a name="estimation"></a>: the process of agreeing on a size measurement for the stories in a product backlog. Done by the team, usually using Planning Poker.
 
 **Fibonacci Sequence**: the sequence of numbers where the next number is derived by adding together the previous two (1,2,3,5,8,13,20…) ; the sequence has the quality of each interval getting larger as the numbers increase; the sequence is often used for Story Points, simply because estimates are always less accurate when dealing with epics.
 
@@ -45,7 +45,7 @@ The ScrumMaster ensures that participants call sidebar meetings for any discussi
 
 **Planning**: see Sprint Planning
 
-**Planning Poker**: a game used to apply estimates to stories; it uses the Delphi method of arriving at consensus.
+**Planning Poker**<a name="poker"></a>: a game used to apply estimates to stories; it uses the Delphi method of arriving at consensus.
 
 **Process**: simply the way someone works. Everyone has a process. It can be pre-defined, empiric or merely chaotic.
 
@@ -104,13 +104,13 @@ _Source: Agile Project Management with Scrum, Ken Schwaber_
 
 **Sprint Task**<a name="sprint-task"></a>: a single small item of work that helps one particular story reach completion.
 
-**Story**: a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
+**Story**<a name="story"></a>: a backlog item usually using the template form: as a [user] I want [function] so that [business value], cf Product Backlog Item.
 
 **Stakeholder**: Sometimes the following terms are used synonymously – although it should be noted that there are nuances in their definitions: story, user story, technical user story, product backlog item, PBI, and product requirement.
 
 **Story Point**<a name="story-point"></a>: a unit of measurement applied to the size of a story, cf. Fibonacci Sequence T-shirt sizes, powers of 2, are other ways of assigning Story Points.
 
-**Story Time**: the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
+**Story Time**<a name="story-time"></a>: the regular work session where items on the backlog are discussed, refined and estimated and the backlog is trimmed and prioritized.
 
 **Task**<a name="task"></a>: see [Sprint Task](#sprint-task)
 
