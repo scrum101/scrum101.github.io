@@ -14,13 +14,13 @@ Enter a memorable name for the project and click create.
 
 ## Adding user stories
 
-With the created project you can now add stories to the backlog. Stories should capture some use requirement of the end product.To add stories to the backlog, click "Create issue". Enter the title of the user story into the "what needs to be done" text box. Press Enter and the story will be place dinto the project backlog!
+With the created project you can now add stories to the [backlog](glossary.md#product-backlog). [Stories](glossary.md#story) should capture some user requirement of the end product.To add stories to the backlog, click "Create issue". Enter the title of the user story into the "what needs to be done" text box. Press Enter and the story will be place dinto the project backlog!
 
 ![](/img/createissue.png) 
 
 ![](/img/createissue2.png)
 
-You can continue to create stories if you want. Let's instead edit the newly created story, adding a description of the story, and an acceptance criteria.
+You can continue to create stories if you want. Let's instead edit the newly created story, adding a description of the story, and some [acceptance criteria](glossary.md#acceptance-criteria).
 
 
 ![](/img/editdescription.png)
@@ -29,19 +29,19 @@ Nice. After you created enough stories it's time to prioritise. Stories that are
 
 ![](/img/prioritise.png)
 
-Once prioritised, you need to add story points to each story. Have a go at story-point-poker for each story in the backlog. Assign each story the estimated amount of story points.
+Once prioritised, you need to add story points to each story. Have a go at [story-point-poker](glossary.md#poker) for each story in the backlog. Assign each story the estimated amount of story points.
 
 ![](/img/storypoints.png)
 
 ## Creating your first sprint
 
-Time to create a sprint.
+Time to create a [sprint](glossary.md#sprint).
 
 In the Backlog screen, locate the "Create Sprint" button
 
 ![](/img/createsprint.png)
 
-Based on estimates of how much work you think you could complete in your desired sprint duration, add stories to the newly created sprint by drag and dropping stories from the backlog to the sprint.
+Based on [estimates](glossary.md#estimation) of how much work you think you could complete in your desired sprint duration, add stories to the newly created sprint by drag and dropping stories from the backlog to the sprint.
 
 ![](/img/dragdropstories.png)
 
@@ -51,7 +51,7 @@ Once you've added all the stories you think you could complete in a sprint click
 
 ![](/img/startsprint2.png)
 
-With the sprint created, the team can assign tickets to themselves. Once work has started on a ticket it should be moved to the "In progress" tab of the current sprint. Once completed it shoukd be moved to the "Done" tab.
+With the sprint created, the team can assign tickets to themselves. Once work has started on a ticket it should be moved to the "In progress" tab of the current sprint. Once completed it shoukd be moved to the ["Done"](glossary.md#done) tab.
 
 ![](/img/sprintboard.png)
 
